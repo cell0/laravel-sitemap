@@ -1,6 +1,6 @@
 {
-    "name": "roumen/sitemap",
-    "description": "A simple sitemap generator for Laravel.",
+    "name": "cell0/sitemap",
+    "description": "A simple sitemap generator for Laravel. Fork for multilanguage fix for Laravel 4",
     "homepage": "http://roumen.it/projects/laravel-sitemap",
     "keywords": ["laravel", "sitemap"],
     "license": "MIT",
@@ -10,6 +10,12 @@
             "email": "roumen@dawebs.com",
             "role": "Developer",
             "homepage": "http://roumen.it"
+    },
+    {
+            "name": "Tomas Pieters",
+            "email": "tomas@cell-0.com",
+            "role": "Developer",
+            "homepage": "http://cell-0.com"
     }
     ],
     "require": {
