@@ -1,5 +1,5 @@
 {
-    "name": "cell0/sitemap",
+    "name": "cell0/laravel-sitemap",
     "description": "A simple sitemap generator for Laravel. Fork for multilanguage fix for Laravel 4",
     "homepage": "http://roumen.it/projects/laravel-sitemap",
     "keywords": ["laravel", "sitemap"],
