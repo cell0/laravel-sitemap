@@ -99,7 +99,7 @@ class Sitemap
                 {
                     foreach ($translation as $key => $value)
                     {
-                        $translations[$key] = htmlentities($value, ENT_XML1);
+                        $translation[$key] = htmlentities($value, ENT_XML1);
                     }
                 }
             }
